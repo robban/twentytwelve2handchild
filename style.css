@@ -1,0 +1,29 @@
+/*
+
+Theme Name: Kyrkornas2hand
+Description: Child template to twentytwelve for Kyrkornas2hand
+Author: Robert Johansson
+Version: 1.0.1
+Template: twentytwelve
+
+*/
+
+@import url('../twentytwelve/style.css');
+
+body.home header.entry-header {display: none;}
+
+footer {display: none;}
+
+header hgroup {float: left}
+
+img.header-image {margin-top: 0; border-radius: 0; box-shadow: none;}
+
+hgroup.site-info {padding-left: 20px; padding-top: 16px;}
+
+.site-header {padding: 0;}
+
+h1, h2, .site-header h1 a, h4 {color: #D50000;}
+
+.entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {margin-bottom: 0;}
+
+
